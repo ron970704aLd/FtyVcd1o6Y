@@ -6,7 +6,6 @@
     "sourceType": "module"
   },
   "plugins": ["@typescript-eslint"],
-  "rules": {
     "dot-notation": "off",
     "no-undef": "off",
     "import/first": "off",
